@@ -1,0 +1,39 @@
+.caroussel__imagem1{
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 400px;
+}
+
+.caroussel__imagem2{
+    object-fit: cover;
+    height: 400px;
+}
+
+.titulo__carousel{
+    font-family: 'Pacifico', cursive;
+}
+
+.cor__especial{
+    color: darkred;
+}
+
+.cor__botao{
+    background-color: darkred;
+    color: white;
+}
+
+.cor__borda{
+    border-color: darkred;
+}
+
+.centraliza__conteudo{
+    justify-content: center;
+}
+.largura__card{
+   max-width: 18rem;
+}
+
+.card__posicao--imagem{
+    object-fit: cover;
+    height: 200px;
+}
